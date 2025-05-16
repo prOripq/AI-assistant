@@ -37,6 +37,7 @@ An AI-powered assistant that answers questions about the Constitution of Kazakhs
 ### Prerequisites
 - Python 3.8+
 - For Ollama: [Install Ollama](https://ollama.com)
+- And choose model "Mistral"
 
 
 ## Testing
