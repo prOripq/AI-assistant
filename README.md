@@ -16,8 +16,10 @@ An AI-powered assistant that answers questions about the Constitution of Kazakhs
 
 ## ScreenShots
 
-![Снимок экрана 2025-05-06 133957](https://github.com/user-attachments/assets/7b6473bc-08b8-4c4f-89ca-7cb46a653d70)
-![Снимок экрана 2025-05-06 134313](https://github.com/user-attachments/assets/091bf296-380a-48c2-982a-550d82e84d33)
+![image](https://github.com/user-attachments/assets/9443ae17-b567-442f-927c-d5736931fa1f)
+
+![image](https://github.com/user-attachments/assets/9e13695c-9d9b-4fae-b8bc-bdfa03e4ab22)
+
 ![Снимок экрана 2025-05-06 134335](https://github.com/user-attachments/assets/4784d0ae-8dfc-4ba2-9c73-995aab04ab24)
 ![Снимок экрана 2025-05-06 134343](https://github.com/user-attachments/assets/4b29185d-cc21-49f4-a733-af6269f351f0)
 
